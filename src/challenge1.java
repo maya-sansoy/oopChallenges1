@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-
-public class Main {
+public class challenge1 {
     public static void main(String[] args) {
 
         int[][] DICEDIAL = {
